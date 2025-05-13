@@ -2,13 +2,7 @@
 
 > Solve Sudoku puzzles using **Propositional Logic (PL)** and **First-Order Logic (FOL)** side by side, with a visual and educational twist!
 
----
 
-## 📦 Repository Name
-
-**`sudoku-logic-solver-pl-fol`**
-
----
 
 ## 🔍 Introduction
 
