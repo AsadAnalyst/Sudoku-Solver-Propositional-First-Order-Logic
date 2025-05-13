@@ -81,9 +81,10 @@ Explore the power of formal logic and AI as the solver demonstrates:
    Time taken and theoretical complexity shown after solving.
 
 ---
-
+## 📥 Screenshots
 
 ![image](https://github.com/user-attachments/assets/9e5d9136-5cb3-4b75-a915-4c3b5c906723)
+![image](https://github.com/user-attachments/assets/4f62dff9-5207-46fa-a648-39e9d71d3854)
 
 
 ## 📥 Requirements
